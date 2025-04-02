@@ -15,7 +15,7 @@
       [
         2160,
         1620,
-        36,
+        38,
         "apple ipad (10.2-inch) (7th generation)"
       ]
     ]
@@ -35,13 +35,13 @@
       [
         2224,
         1668,
-        1596,
+        51,
         "apple ipad pro (10.5-inch)"
       ],
       [
         2732,
         2048,
-        44,
+        36,
         "apple ipad pro (12.9-inch, 2nd gen)"
       ]
     ]
@@ -61,7 +61,7 @@
       [
         2160,
         1620,
-        58,
+        59,
         "apple ipad 8th gen (wifi+cellular)"
       ],
       [
@@ -101,7 +101,7 @@
       [
         2388,
         1668,
-        107,
+        113,
         "apple ipad pro (11-inch) (2rd generation)"
       ],
       [
@@ -136,7 +136,7 @@
         2360,
         1640,
         60,
-        "apple ipad air (4th generation)"
+        "apple ipad (10th generation)"
       ],
       [
         2388,
@@ -163,6 +163,20 @@
         1668,
         60,
         "apple ipad mini (6th gen)"
+      ]
+    ]
+  ],
+  [
+    "apple a17 pro gpu",
+    "17",
+    "a17 apple gpu pro",
+    0,
+    [
+      [
+        2266,
+        1488,
+        60,
+        "apple ipad mini 7th gen cellular (a17)"
       ]
     ]
   ],
@@ -265,6 +279,12 @@
         2048,
         60,
         "apple ipad pro (12.9-inch) (5th generation)"
+      ],
+      [
+        2752,
+        2064,
+        103,
+        "apple ipad pro (12.9-inch) (5th generation)"
       ]
     ]
   ],
@@ -275,22 +295,42 @@
     0,
     [
       [
+        2360,
+        1640,
+        60,
+        "apple ipad air 6th gen (m2)"
+      ],
+      [
         2388,
         1668,
         120,
         "apple ipad pro 11 inch (4th gen)"
       ],
       [
-        2730,
-        2048,
-        117,
-        "apple ipad pro 12.9-inch (6th generation)"
-      ],
-      [
         2732,
         2048,
+        60,
+        "apple ipad air 13-inch (m2)"
+      ]
+    ]
+  ],
+  [
+    "apple m4 gpu",
+    "4",
+    "apple gpu m4",
+    0,
+    [
+      [
+        2420,
+        1668,
         120,
-        "apple ipad pro 12.9 inch (6th gen)"
+        "apple ipad pro 11-inch (m4)"
+      ],
+      [
+        2752,
+        2064,
+        120,
+        "apple ipad pro 12.9 inch 7th gen"
       ]
     ]
   ]
